@@ -4,6 +4,10 @@ public class main {
     	System.out.println("Product value is " + product.countValue());
     	product.printProduct();
      }
+    
+    public void changePrice() {
+    
+    }
 }
 
  class Product {
